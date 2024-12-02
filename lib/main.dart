@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MassConverterApp());
 }
 
 class MassConverterApp extends StatelessWidget {
